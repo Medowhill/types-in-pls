@@ -1,1 +1,1 @@
-let res: any = true ? 1 : false;
+let res: unknown = true ? 1 : false;
